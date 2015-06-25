@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameMaster.cs">
+    <Files>
+      <File FileName="Assets\Scripts\InimigoFujao.cs" Line="92" Column="2" />
+      <File FileName="Assets\Scripts\GameMaster.cs" Line="50" Column="19" />
+      <File FileName="Assets\Scripts\Fugir.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Personagem.cs" Line="95" Column="43" />
+      <File FileName="Assets\Scripts\InimigoCacador.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ramdomico.cs" Line="26" Column="3" />
+      <File FileName="Assets\Scripts\InimigoAleatorio.cs" Line="55" Column="2" />
+      <File FileName="Assets\Scripts\WayPoints.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NumeroInimigo.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
